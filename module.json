@@ -1,0 +1,13 @@
+{
+    "name": "ChallengeHashtag",
+    "alias": "challengehashtag",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ChallengeHashtag\\Providers\\ChallengeHashtagServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

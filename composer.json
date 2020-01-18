@@ -1,0 +1,26 @@
+{
+    "name": "eleskovic/challengehashtag",
+    "type": "laravel-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Yağız Eleskovic",
+            "email": "yagiz.eleskovic@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ChallengeHashtag\\Providers\\ChallengeHashtagServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ChallengeHashtag\\": ""
+        }
+    }
+}
